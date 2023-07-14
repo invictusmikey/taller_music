@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.uno{
+position: relative;
+top: 370px;
+
+
+}
+
+header{
+color: white;
+text-align: center;
+height: 1100px;
+background-image: url(/images/angel.jpg);
+background-size: cover;
+font-size: 100px;
+}
+h2{
+font-size: 60px;
+}
+P{
+font-size: 40px;
+}
+.iz {
+    float: left;
+    margin-top: 300px;
+    margin-left: 420px;
+}
+.der {
+
+    float:right;
+    margin-right:150px;
+    position: relative;
+    top: 50px;
+}
+button{
+width: max-content;
+height: max-content;
+font-size: 30px;
+background-color: #fd4c5c;
+margin-top: 50px;
+color :#ffff;
+padding: 25px;
+border:none;
+border-radius: 50px;
+}
+.der2{
+float:right;
+margin-right:150px;
+position: relative;
+top: 500px;
+}
+.contenerdor2{
+background-color: blue;
+}
+.der3 {
+    margin-right: 100px;
+    float: right;
+    position: relative;
+    top: 200px;
+}
+.segundo{
+color: #ffff;
+background-image: url(/images/raptis.png);
+background-size: cover;
+background-repeat: no-repeat;
+height: 900px;
+margin-top: 300px;
+}
+.clear {
+    clear: both;
+}
+footer{
+background-color: #fd4c5c;
+padding-left: 400px;
+height: 400px;
+padding-top: 100px;
+}
+.final{
+color: #ffff;
+float: left;
+margin-left: 50px;
+width: 250px;
+background-color: #fd4c5c;
+font-size: 20px;
+}
+.linea{
+margin-top: 200px;
+width: 1400px;
+position: relative;
+left: 50px;
+
+}
